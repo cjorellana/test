@@ -1,0 +1,1179 @@
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3060ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3070ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3076ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3061ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3079ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3063ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3072ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3072ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3064ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3074ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3070ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3059ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3062ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3062ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3069ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:30:02 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3081ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3060ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3068ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3066ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3076ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3070ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3076ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3068ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3073ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:00:02 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3056ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3075ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3070ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:50:02 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3071ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3072ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3069ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3068ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3074ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3058ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3059ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:10:02 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3077ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3058ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3071ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3063ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3065ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3051ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3049ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3062ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3074ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3069ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3049ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:00:02 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3066ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3061ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3055ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3053ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3074ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3070ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3064ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3077ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3075ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3057ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3048ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 10:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3070ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 10:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3053ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 10:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3065ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 10:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3053ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 10:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3049ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 10:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3048ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 11:00:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3060ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 11:10:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3069ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 11:20:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3077ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 11:30:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3051ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 11:40:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3074ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 11:50:01 am
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3065ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3048ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3075ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3072ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3076ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3066ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 12:50:02 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3078ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:10:02 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3077ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3073ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3051ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3075ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 1:50:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3049ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3070ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3076ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3053ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3054ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3054ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 2:50:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3069ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3077ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3058ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3058ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3054ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 3:50:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3069ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3073ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3059ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3062ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3065ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3079ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 4:50:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3048ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3073ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3049ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3075ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3053ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 5:50:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3048ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3072ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3064ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3061ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3059ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3068ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 6:50:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3052ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3063ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3049ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3069ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3060ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3078ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 7:50:02 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3058ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3058ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3052ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3066ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3062ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3058ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 8:50:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3069ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:00:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3071ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:10:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3076ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:20:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3062ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:30:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3078ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 27, 2022, 9:40:01 pm
+)

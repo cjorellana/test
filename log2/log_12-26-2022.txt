@@ -1,0 +1,63 @@
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3076ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 26, 2022, 11:18:32 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 26, 2022, 11:28:06 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3068ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 26, 2022, 11:30:02 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3078ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 26, 2022, 11:31:23 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3056ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 26, 2022, 11:32:04 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3077ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 26, 2022, 11:40:01 pm
+)
+Array
+(
+    [0] => PING 125.1.203.134 (125.1.203.134) 56(84) bytes of data.
+    [1] => 
+    [2] => --- 125.1.203.134 ping statistics ---
+    [3] => 4 packets transmitted, 0 received, 100% packet loss, time 3067ms
+    [4] => 
+    [5] => Ping unsuccessful!  December 26, 2022, 11:50:01 pm
+)
